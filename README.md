@@ -27,4 +27,4 @@ Por enquanto estou hospedando meu bot nos servidores da AWS durante o período d
 
 
 ## 😺
-![](https://cdn.discordapp.com/attachments/971233746458124300/1288667887514681385/image.png?ex=66f604fe&is=66f4b37e&hm=ac2c7286824f0dc782c3e669f451ec518a72e6fb6ca199d0f660007aa3dcf6ef&)
+![]()
